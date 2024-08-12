@@ -1,88 +1,88 @@
 
-Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(‰áúşûÿÿÿÿ8óÖØã“2J$b229debe-ef11-479f-81e4-c4967be83bff
-ª	Web:S4645"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(Š×şÁ8é…İã“2J$27c63b7c-8b19-48e6-ba53-0a9a324680f7
-	Web:S6819À"SUse <header> instead of the banner role to ensure accessibility across all devices.(÷ïùÓJ$7d6db3c9-3f37-4032-a6c3-64a873627772
-	Web:S6819À"SUse <header> instead of the banner role to ensure accessibility across all devices.(÷ïùÓJ$86ae4529-9a06-4285-940a-4f3cfd894dc3
- ,Web:MouseEventWithoutKeyboardEquivalentCheckÀ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(÷ïùÓJ$197fd7de-e328-47a4-a95c-bf2d698e11bf
-š	Web:S6819À"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(÷ïùÓJ$ecc1d4db-99c1-4f55-a3f0-f0120aa19ae1
- ,Web:MouseEventWithoutKeyboardEquivalentCheckÑ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(À¯ìJ$64a768dd-e8c7-4d57-badc-b4f016708b8e
-š	Web:S6819Ñ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(À¯ìJ$ec9b14cf-5512-4bb6-94b3-4a14b571e4e7
-Ÿ,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(ëóì^J$1ff62bc6-8261-44d9-86e3-36ba6c20f43c
-™	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ëóì^J$2ef54348-4578-465c-887f-057df439708e
-Ÿ,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(ëóì^J$a64aa0de-0630-4130-9811-5f3d253f693c
-™	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ëóì^J$078399c7-b31c-4e18-8956-aa2c74ef6e8a
-Ÿ,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(ëóì^J$7c22a272-89de-4af6-a66b-03f2c5500121
-™	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ëóì^J$406610e5-3f70-4d3a-9f8a-118e04a5a681
-¥,Web:MouseEventWithoutKeyboardEquivalentCheckÕ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(·ÚÌúÿÿÿÿJ$b840c8fa-deba-4fdc-a9ab-3b78fcc395d0
-Ÿ	Web:S6819Õ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(·ÚÌúÿÿÿÿJ$0e98999b-c97c-457c-8424-65edac4ca975
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$560f615f-1d26-4289-a335-02fab3f05ed0
-Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$543c669d-bd3e-418f-8796-eb49b28061f5
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$dc598180-81aa-4e9b-afc3-b52596c3868f
-Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$53f76ef7-7ee4-47e6-b0d8-e128d1b137a7
-¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$a1309799-5dab-401b-b5b8-2d895983c863
-Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$73d48036-ab06-4eee-8d55-6ade327f2e37
-p	Web:S1827×"/Remove this deprecated "frameborder" attribute.(´øÌ…ûÿÿÿÿJ$c842396f-cd31-4b57-9b12-62bdbb585dd0
- ,Web:MouseEventWithoutKeyboardEquivalentCheckÙ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(äùŒ–J$edf373da-1985-4ccc-93ad-bfeb69e8141e
-š	Web:S6819Ù"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(äùŒ–J$0dbc1ad4-d313-4cc5-984e-30815d2572b3
- ,Web:MouseEventWithoutKeyboardEquivalentCheckİ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(¨ª·J$271b685b-4ed9-48e4-82a7-89ef1453c334
-š	Web:S6819İ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(¨ª·J$5e4f166b-9a56-4761-b91e-cc0a5fb93f4f
-p	Web:S1827Ş"/Remove this deprecated "frameborder" attribute.(ó«ÉğûÿÿÿÿJ$8a595c5f-857b-4adc-a8a5-3050c03a9d6c
-Web:FrameWithoutTitleCheckŞ"-Add a "title" attribute to this <iframe> tag.(ó«ÉğûÿÿÿÿJ$478c6c70-e3d4-42ea-b159-0faeff22c505
-p	Web:S1827Ş"/Remove this deprecated "frameborder" attribute.(ó«ÉğûÿÿÿÿJ$1f544204-91bc-4919-b255-5eacdaaef475
-k	Web:S1827ß"/Remove this deprecated "frameborder" attribute.(ç’í¨J$97ac81dd-9318-417d-a1ec-0091d280678e
-zWeb:FrameWithoutTitleCheckß"-Add a "title" attribute to this <iframe> tag.(ç’í¨J$8f4d137e-10e4-434a-a909-065aae0c3a60
-k	Web:S1827à"/Remove this deprecated "frameborder" attribute.(ûÒ½ÙJ$34452543-4b82-46c3-b70f-aa4fd5ceed89
-zWeb:FrameWithoutTitleCheckà"-Add a "title" attribute to this <iframe> tag.(ûÒ½ÙJ$5772879a-bb42-467b-8823-5476684605e3
-k	Web:S1827à"/Remove this deprecated "frameborder" attribute.(ûÒ½ÙJ$f8775ca2-a7c2-4f2c-acc9-6a8e96c0310e
-	Web:S6819à"TUse <section> instead of the region role to ensure accessibility across all devices.(ûÒ½ÙJ$cc298900-6504-48a7-b7f4-522f327e60ac
-¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(ûÒ½ÙJ$97535c4c-6be5-46b6-bf5d-99ef2960d796
-	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(ûÒ½ÙJ$8c9ad4f2-21c8-4085-8f68-972ce76c8346
-¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(ûÒ½ÙJ$5284e68c-ea94-4b0d-bdc7-1d3971572d05
-	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(ûÒ½ÙJ$4f8947f0-64db-4b76-9692-5af947e9890a
-¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(ûÒ½ÙJ$90468690-34f2-4da6-91b1-5151903f3f6f
-¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(ûÒ½ÙJ$ae64891d-23f6-4eb0-9c93-86b4441331b9
-	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(ûÒ½ÙJ$36d7a970-61aa-429d-a1ad-356ddc34f778
-½	Web:S6819ã"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(°´ôÑøÿÿÿÿJ$4c3ca706-11cc-4e6f-a8e9-42936f0d3c9e
-’	Web:S6850ã"QHeadings must have content and the content must be accessible by a screen reader.(°´ôÑøÿÿÿÿJ$79faad7b-65db-42aa-a352-fe6caabc3254
-¸	Web:S6819è"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(Ùª¨ùJ$9c9436cc-aad3-40f2-b5e6-41a0d237ba11
-	Web:S6850è"QHeadings must have content and the content must be accessible by a screen reader.(Ùª¨ùJ$9526b641-5c21-4dd9-ade7-8576884402af
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$10e08d50-4c23-4ac2-bcab-d6cc7fc5f5c2
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$eb06f1a3-dbd3-479d-8aa8-2a2367678df6
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$c8b4e2d3-7b3c-4727-b635-354769131fa6
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$cb11a590-10cf-410b-adc0-6c85dd3c5e3d
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$1bda8a64-5a3e-492c-92d2-4ee123db4b67
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$2beb65f2-6063-4982-b41f-d90b807fbeb1
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$df9c2945-bcee-402d-9529-8ef4be530f6d
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$93d6af99-5236-4a80-bcbe-9119bd834cf7
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$849f4e97-592b-449b-b959-b40db4d22ad1
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$fc51c972-e21a-4ee6-b54c-2050aefc8d2d
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$e68a1be9-b004-4343-9a67-6d4c6e084dce
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$d0a5b409-4c16-4815-96ea-b35800d4b722
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$235592e3-c5af-4bd6-9972-4e3fc9160ccb
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$cb59294e-069c-4aa4-b2e1-86f670c493e3
- ,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Ùª¨ùJ$5b3785ab-3a0d-45fa-a8a1-5592e4594789
-š	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Ùª¨ùJ$b39bfd93-9eb5-4709-bc9f-c9f9335e274b
-©	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(òÆ°ÉùÿÿÿÿJ$12050df2-031a-4ead-a025-292480534a25
-©	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(òÆ°ÉùÿÿÿÿJ$7ded985b-7394-4ead-9829-e19f66b0f29b
-©	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(òÆ°ÉùÿÿÿÿJ$1ec5c669-66a4-40da-a008-3110e8f6065d
-p	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(òÆ°ÉùÿÿÿÿJ$e1a8a917-3161-4f1f-aa16-0156f5abe436
-p	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(òÆ°ÉùÿÿÿÿJ$2d00e88c-8cc3-4398-9761-56d63af400d8
-p	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(òÆ°ÉùÿÿÿÿJ$8e31775c-141f-4308-b8b3-27f199ade974
-š	Web:S6819µ"_Use <menu> or <ol> or <ul> instead of the list role to ensure accessibility across all devices.(éûÊNJ$0adc06fd-8a52-4892-8323-67da40b0c63c
-Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$4e9fd0cd-e005-4ad1-b644-1661fa1033a6
-Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$f1640f58-dbc5-4b3b-ab10-24bfc819f946
-Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$db3abc58-e9f8-4982-b4d5-933ef2c57adb
-š	Web:S6819µ"_Use <menu> or <ol> or <ul> instead of the list role to ensure accessibility across all devices.(éûÊNJ$ee42ddcd-b19f-47a9-b3b8-d5eaa46c08d2
-Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$e5905c24-250f-4e3a-bdcf-73f00f3ef555
-	Web:S6819·"QUse <li> instead of the listitem role to ensure accessibility across all devices.(ÉŸ€¾J$ca6b7956-be6d-4f57-b9f6-82e4dbb16fa4
-’	Web:S6819¹"QUse <li> instead of the listitem role to ensure accessibility across all devices.(Äñ©°üÿÿÿÿJ$38f730f1-c18a-4aa8-ba9c-b3ba20b0f6fc
-•	Web:S6819»"TUse <section> instead of the region role to ensure accessibility across all devices.(¥Ø™™øÿÿÿÿJ$9e6eac35-bf67-478d-b620-012a25d4d478
-•	Web:S6819»"TUse <section> instead of the region role to ensure accessibility across all devices.(¥Ø™™øÿÿÿÿJ$070b4397-8329-4c2c-a277-b2ab9beef25b
-zWeb:FrameWithoutTitleCheck¼"-Add a "title" attribute to this <iframe> tag.(ã¥Õ”J$c742a622-5b08-4d18-bc4e-31bfcb11afbc
-v	Web:S1827Œ"5Remove this deprecated "allowtransparency" attribute.(Ò—òÿÿÿÿÿJ$0b87964c-9118-48ed-b8e4-360b8a452ff0
-n	Web:S1827Œ"-Remove this deprecated "scrolling" attribute.(Ò—òÿÿÿÿÿJ$3cd06826-6998-4fc1-8ae7-de31c25f373a
-v	Web:S1827Œ"5Remove this deprecated "allowtransparency" attribute.(Ò—òÿÿÿÿÿJ$72dfed90-3d25-44a6-8fde-b84746dc7dec
-n	Web:S1827Œ"-Remove this deprecated "scrolling" attribute.(Ò—òÿÿÿÿÿJ$98994200-b02a-43dc-9b3c-3da6b04f893e
-€	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(÷ïùÓJ$fbfae6f0-bb39-4829-ada3-32b83cef7902
-€	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(÷ïùÓJ$f31403e5-a457-4b38-be49-86e405ff721a
-€	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(÷ïùÓJ$852a27b0-9106-46bf-81dc-b5642d29faaf
+Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(‰áúşûÿÿÿÿ8óÖØã“2J$33f864ad-a535-4389-9ad7-bcfd34e4be24
+ª	Web:S4645"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(Š×şÁ8é…İã“2J$bb04fd48-8ac2-4e1f-a91e-a8acb9208735
+”	Web:S6819À"SUse <header> instead of the banner role to ensure accessibility across all devices.(˜ª¹üÿÿÿÿJ$a69796e1-e9ef-4924-ab7a-e0936704f3f2
+”	Web:S6819À"SUse <header> instead of the banner role to ensure accessibility across all devices.(˜ª¹üÿÿÿÿJ$9e738a0e-e7b2-453b-a10c-414b1715b520
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckÀ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(˜ª¹üÿÿÿÿJ$8bff18ab-24a0-4b71-938f-938eb4be10a8
+Ÿ	Web:S6819À"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(˜ª¹üÿÿÿÿJ$ed4238eb-3771-416c-bc28-a87d49ae4240
+ ,Web:MouseEventWithoutKeyboardEquivalentCheckÑ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(À¯ìJ$07bfb3bd-4248-4008-873c-ba3a019699fa
+š	Web:S6819Ñ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(À¯ìJ$37e21eef-3d5f-45f9-bd4d-0d07134a26a7
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Åˆ¥óùÿÿÿÿJ$dbcbab3e-2ce9-4c33-bf79-9d4b0933b9d6
+Ÿ	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Åˆ¥óùÿÿÿÿJ$de1951d4-a4fc-493f-b0e2-da0cb67e6fac
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Åˆ¥óùÿÿÿÿJ$0b86f0b7-a33f-40a5-b545-9a21325ba43d
+Ÿ	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Åˆ¥óùÿÿÿÿJ$d8aabb0d-f78a-42a5-b827-b4a0000b889d
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckÓ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(Åˆ¥óùÿÿÿÿJ$7f76d24a-19cc-4a55-94e0-8bbc2bed41c5
+Ÿ	Web:S6819Ó"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Åˆ¥óùÿÿÿÿJ$c1e2e6a4-4da5-4c34-8c4e-9922f2077c43
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckÕ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(·ÚÌúÿÿÿÿJ$0b245260-fcd3-4311-a2ea-a70c1b6e5148
+Ÿ	Web:S6819Õ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(·ÚÌúÿÿÿÿJ$1337cb26-1b2b-46a1-972f-6210631e57d8
+¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$69bcf026-870e-4d32-a219-4367f0df77b2
+Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$644066b3-d044-40f8-9c70-db61c43a7f63
+¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$8a8502ac-ab1f-42ac-9fc3-acbaa3690f9f
+Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$42c31093-61a8-46bb-a0c7-dd09d7953d6e
+¥,Web:MouseEventWithoutKeyboardEquivalentCheck×"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(´øÌ…ûÿÿÿÿJ$e2840cdb-f38e-4756-83d8-f78f07f3c63f
+Ÿ	Web:S6819×"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(´øÌ…ûÿÿÿÿJ$0e1f6ec6-ce6d-4b33-bdf6-91f0dabc18e1
+p	Web:S1827×"/Remove this deprecated "frameborder" attribute.(´øÌ…ûÿÿÿÿJ$fde908c0-52a9-4adf-a890-1b8f476a71ed
+ ,Web:MouseEventWithoutKeyboardEquivalentCheckÙ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(äùŒ–J$77a1bb95-9193-49b5-863a-1ac12a236397
+š	Web:S6819Ù"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(äùŒ–J$261ffc8b-761f-44e7-88f8-c122424385ac
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckİ"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(¬·›éûÿÿÿÿJ$872e781e-a97c-4a64-af00-72d38b4e9700
+Ÿ	Web:S6819İ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(¬·›éûÿÿÿÿJ$520a5749-37fd-4255-8649-e91b71685de1
+p	Web:S1827Ş"/Remove this deprecated "frameborder" attribute.(ó«ÉğûÿÿÿÿJ$9f4cf839-6a8c-483d-824e-472fe4372a02
+Web:FrameWithoutTitleCheckŞ"-Add a "title" attribute to this <iframe> tag.(ó«ÉğûÿÿÿÿJ$435494f2-a3d1-466a-9281-af5bfa260543
+p	Web:S1827Ş"/Remove this deprecated "frameborder" attribute.(ó«ÉğûÿÿÿÿJ$e6fdf05c-9fda-422e-a2eb-447a9b310e06
+k	Web:S1827ß"/Remove this deprecated "frameborder" attribute.(ç’í¨J$34dacdbc-ebb4-4c85-8ca7-59947e600ea0
+zWeb:FrameWithoutTitleCheckß"-Add a "title" attribute to this <iframe> tag.(ç’í¨J$9b33dfd6-df6b-4c9b-8a3f-59dd615ac434
+k	Web:S1827à"/Remove this deprecated "frameborder" attribute.(Ëß¼ëJ$71645420-b6a6-408a-883b-0161a8253198
+zWeb:FrameWithoutTitleCheckà"-Add a "title" attribute to this <iframe> tag.(Ëß¼ëJ$8c546706-5f9d-44bd-b4c6-de349f4f6aff
+k	Web:S1827à"/Remove this deprecated "frameborder" attribute.(Ëß¼ëJ$446e62e5-5e06-4b24-b98e-9cf84872393d
+	Web:S6819à"TUse <section> instead of the region role to ensure accessibility across all devices.(Ëß¼ëJ$5bba8a21-4a0d-4383-92db-8838eb3683b3
+¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(Ëß¼ëJ$e1f0dc4a-1676-4efc-98ea-bdb35bbd8360
+	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(Ëß¼ëJ$afcd9e17-2ecc-47c8-bf36-c299c23eef09
+¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(Ëß¼ëJ$a80e1042-677d-47bd-b857-aaf23a2a6450
+	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(Ëß¼ëJ$b824e005-e010-4a84-b4fa-d45bc7fd7ba4
+¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(Ëß¼ëJ$1be6753b-0212-4745-9c2b-878524226749
+¸	Web:S6819à"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(Ëß¼ëJ$d66661be-450e-46ca-883f-be324189b48e
+	Web:S6850à"QHeadings must have content and the content must be accessible by a screen reader.(Ëß¼ëJ$92988005-9bbf-477b-b9b2-f83669c5d42b
+½	Web:S6819ã"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(°´ôÑøÿÿÿÿJ$15d831e4-21cd-47b5-878e-b1be55cc15ce
+’	Web:S6850ã"QHeadings must have content and the content must be accessible by a screen reader.(°´ôÑøÿÿÿÿJ$c33cc716-b421-4db2-b1b6-e03d430501cc
+½	Web:S6819è"|Use <address> or <details> or <fieldset> or <optgroup> instead of the group role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$24fb3ab1-7c43-45fd-baae-29b74aacabc5
+’	Web:S6850è"QHeadings must have content and the content must be accessible by a screen reader.(‘š¶çüÿÿÿÿJ$a4b0b791-56e7-4a54-a42b-808d2cdbfee1
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$7cd2264c-fe33-4baf-973a-73d0f98e31af
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$627d7cd5-0887-4c2a-b00c-ec91be3f8b04
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$d95b4d0a-0c9b-4b68-9dc5-03bc69957ad4
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$c553af15-51bf-4a47-bd30-7f7542412d09
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$87bca0ee-71bd-45cf-a3b4-61ebe3436bc3
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$11f63ef9-6670-447c-bd2f-3757793d9568
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$c0a11af6-1c1a-4f17-9ba0-1d7fa02fd3b1
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$cacc660c-393b-477d-a90a-2cc55e40889c
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$120b7f4f-1379-4e60-8685-5521a5e0ddf5
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$3a09b499-c718-4a8e-884a-bdcd3691ae4a
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$e6b15a26-e454-4dbf-be07-38a29df6c0d1
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$dc772722-fe3a-48d6-a6c7-a4d5a5f0a334
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$230ad7df-1343-4f97-9acf-4630b0831475
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$5bce4a1a-bf4c-41b9-adce-30f3a66b08b6
+¥,Web:MouseEventWithoutKeyboardEquivalentCheckè"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <div> tag.(‘š¶çüÿÿÿÿJ$3eed1a5a-e880-4359-9bcd-5ea0df1e16d7
+Ÿ	Web:S6819è"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(‘š¶çüÿÿÿÿJ$d0149006-14e9-4779-8e6f-e6e3ca43e407
+¤	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(Ä³ ÑJ$24699015-950c-482e-bcf6-2506c9304587
+¤	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(Ä³ ÑJ$2018e049-2175-47ef-b10d-6c196cd4e728
+¤	Web:S6822ş"hThe element ul has an implicit role of list. Definig this explicitly is redundant and should be avoided.(Ä³ ÑJ$5591391e-2bf3-48d4-a21f-6a1c165110a8
+k	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(Ä³ ÑJ$7c2d179a-050a-4d7b-a767-f3827c5c01a4
+k	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(Ä³ ÑJ$907e7e61-d8ef-4785-bc99-f031267044ca
+k	Web:S1827ş"/Remove this deprecated "frameborder" attribute.(Ä³ ÑJ$fefaa83b-80db-4d28-91d1-eb46a7d61056
+š	Web:S6819µ"_Use <menu> or <ol> or <ul> instead of the list role to ensure accessibility across all devices.(éûÊNJ$e01f5b81-8240-4f36-bddf-99ffb7d89bae
+Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$4c6e3ed4-6124-4a5d-9a82-37201d1791a8
+Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$b19267e8-9757-4466-8761-6041327e70af
+Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$cf1b6845-5516-493b-b774-91faf67e2f4d
+š	Web:S6819µ"_Use <menu> or <ol> or <ul> instead of the list role to ensure accessibility across all devices.(éûÊNJ$882c4306-4033-40ac-a746-0593702e3ecc
+Œ	Web:S6819µ"QUse <li> instead of the listitem role to ensure accessibility across all devices.(éûÊNJ$5c1c510a-7073-4d52-b360-3847a0f7a722
+	Web:S6819·"QUse <li> instead of the listitem role to ensure accessibility across all devices.(ÉŸ€¾J$6ac3ffe1-5793-4d4a-b5b9-186ceb124cb4
+’	Web:S6819¹"QUse <li> instead of the listitem role to ensure accessibility across all devices.(Äñ©°üÿÿÿÿJ$3daf2ec4-8c58-4681-bc0d-298d1d5ea170
+	Web:S6819»"TUse <section> instead of the region role to ensure accessibility across all devices.(ºŞìÂJ$26356156-a0cf-45ad-b084-36380eaa990c
+	Web:S6819»"TUse <section> instead of the region role to ensure accessibility across all devices.(ºŞìÂJ$136b9b07-f46a-42e1-be75-09dd3db68567
+zWeb:FrameWithoutTitleCheck¼"-Add a "title" attribute to this <iframe> tag.(ã¥Õ”J$f649a253-16a1-4fe1-ace8-65b1961389f4
+v	Web:S1827Œ"5Remove this deprecated "allowtransparency" attribute.(Ò—òÿÿÿÿÿJ$2fac781e-9837-48ff-bc7a-5b99d256ef8b
+n	Web:S1827Œ"-Remove this deprecated "scrolling" attribute.(Ò—òÿÿÿÿÿJ$c6bf10c5-755d-4ff1-ba56-8f01f2499680
+v	Web:S1827Œ"5Remove this deprecated "allowtransparency" attribute.(Ò—òÿÿÿÿÿJ$1c7eadec-9d30-4acd-a0d6-7c69ebcb772e
+n	Web:S1827Œ"-Remove this deprecated "scrolling" attribute.(Ò—òÿÿÿÿÿJ$769a6d4f-85e3-40d4-9719-da0f985c5c98
+…	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(˜ª¹üÿÿÿÿJ$83b8b5de-e811-474f-8dad-5b4bda0297e0
+…	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(˜ª¹üÿÿÿÿJ$5e507218-215d-4ff7-87e0-f3fd3d1c476d
+…	Web:S5255À"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(˜ª¹üÿÿÿÿJ$56e357ed-3390-49aa-b3a8-064beda6862b
